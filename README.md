@@ -2,7 +2,7 @@
 
 ## Ideas
 
-find sport
+find sport (or other idea)
 
 best data set to work with (api)
 
