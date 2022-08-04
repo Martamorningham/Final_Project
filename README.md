@@ -2,10 +2,6 @@
 
 ## Ideas
 
-find sport (or other idea)
+Grab a data set and put together idea of what you would like to look at
 
-best data set to work with (api)
-
-pleyers vs team 
-
-role within team (square, tirangle, cirlce, x)
+potential question to answer with data set 
