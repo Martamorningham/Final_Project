@@ -1,2 +1,2 @@
 # Final_Project
-uploaded jupyer notebook showing how to pull stock data from yahoo
+uploaded juptyer notebook showing how to pull stock data from yahoo
