@@ -2,10 +2,4 @@
 
 ## Ideas
 
-find sport (or other idea)
-
-best data set to work with (api)
-
-pleyers vs team 
-
-role within team (square, tirangle, cirlce, x)
+Creating a project based on amazon stocks database API to predict future stocks with a machine learning model.
