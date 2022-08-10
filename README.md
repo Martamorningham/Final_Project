@@ -17,3 +17,5 @@ Amazon is a massive online retailer that has a market capitalization as of June 
 We used data from Yahoo Finance API ..The Yahoo Finance API is a range of libraries/APIs/methods to obtain historical and real time data for a variety of financial markets and product
 
 # Questions We Would Like to Answer
+* Given the data available, can we predict the  stock prices in the coming days?
+* Is Amazon (AMZN)  a Safe Investment?
