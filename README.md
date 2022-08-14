@@ -10,6 +10,8 @@
 many investors are keen on knowing the future situation of the stock market. Good and effective prediction systems for the stock market help traders, investors, and analyst by providing supportive information like the future direction of the stock market.
 Amazon is a massive online retailer that has a market capitalization as of June 2018 that is in excess of $268 billion U.S. As well as being an online retailer, Amazon allows for individuals and business to sell and display products for sale online. It is the largest internet retailer in the world by revenue..
 
+In this project, we will try to predict the direction of Amazon stock based on historical data..
+
 
 
 # Description of the source of data
