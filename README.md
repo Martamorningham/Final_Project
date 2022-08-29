@@ -10,7 +10,7 @@ Using Yahoo Finance's API we are able to pull historical data, and make calls to
 ![alt text](https://github.com/Martamorningham/Final_Project/blob/main/Yahoo_API_pull_example.png)
 ##  Data Stored:
 We are using stored Data in the Yahoo Finance's API database.
-##  LTSM Model
+##  LTSM Model:
 
 ![alt text](https://github.com/Martamorningham/Final_Project/blob/Russell_Taylor_Branch_3/LSTM_model.png)
 
@@ -18,7 +18,7 @@ We are using stored Data in the Yahoo Finance's API database.
 Weekly group meetings setting goals and reviewing results.  Additional meetings scheduled as needed. 
 
 ##  Outline of project:
-Training our Nueral Network to predict future stock price based on the past performance seen in our historical data. Utilizing our own SQL database, fed with information from the Yahoo Finanance API, we will train our LTSM module to predict and visualize the future price flucations of Amazon (and other stocks), to help make more informed market decisions going forward.
+Training our Nueral Network to predict future stock price based on the past performance seen in our historical data. Utilizing information from the Yahoo Finanance API, we trained our LTSM module to predict and visualize the future price flucations of Amazon (and other stocks), to help make more informed market decisions going forward.
 
 ![alt text](https://github.com/Martamorningham/Final_Project/blob/main/AMZN_Graph_Models.png)
 
