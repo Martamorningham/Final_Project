@@ -6,7 +6,8 @@ Stock Analysis of Amazon utilizing LTSM (Long Short-Term Memory)
 We wanted to work with a model that would allow us to make future predictions in the stock market, specifically for Amazon (Ticker: AMZN)
 ##  Data Gathered
 Using Yahoo Finance's API we are able to pull historical data, and make calls to keep the data up to date on a regular basis.
-Data Stored
+![alt text](https://github.com/Martamorningham/Final_Project/blob/main/Yahoo_API_pull_example.png)
+##  Data Stored
 We are storing this Data in our SQL database
 LTSM Model
 
