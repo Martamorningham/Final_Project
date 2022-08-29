@@ -10,6 +10,8 @@ Using Yahoo Finance's API we are able to pull historical data, and make calls to
 ![alt text](https://github.com/Martamorningham/Final_Project/blob/main/Yahoo_API_pull_example.png)
 ##  Data Stored:
 We are using stored Data in the Yahoo Finance's API database and SQL.
+![alt text](https://github.com/Martamorningham/Final_Project/blob/Russell_Taylor_Branch_3/SQL_Database.png)
+
 ##  LSTM Model:
 
 ![alt text](https://github.com/Martamorningham/Final_Project/blob/Russell_Taylor_Branch_3/LSTM_model.png)
