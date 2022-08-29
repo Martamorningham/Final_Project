@@ -1,0 +1,58 @@
+CREATE TABLE amzn_stock (
+Close numeric,
+Predictions numeric,
+Difference numeric
+);
+
+SELECT * FROM amzn_stock;
+
+DROP table amzn_stock;
+DROP table tng_stock;
+DROP table wmt_stock;
+
+DROP table spy_stock;
+DROP table xrt_stock;
+DROP table dltr_stock;
+
+CREATE TABLE tng_stock (
+Close numeric,
+Predictions numeric,
+Difference numeric
+);
+
+CREATE TABLE wmt_stock (
+Close numeric,
+Predictions numeric,
+Difference numeric
+);
+
+CREATE TABLE dltr_stock (
+Close numeric,
+Predictions numeric,
+Difference numeric
+);
+
+CREATE TABLE lulu_stock (
+Close numeric,
+Predictions numeric,
+Difference numeric
+);
+
+CREATE TABLE spy_stock (
+Close numeric,
+Predictions numeric,
+Difference numeric
+);
+
+CREATE TABLE xrt_stock (
+Close numeric,
+Predictions numeric,
+Difference numeric
+);
+
+SELECT * FROM amzn_stock;
+SELECT * FROM dltr_stock;
+SELECT * FROM lulu_stock;
+SELECT * FROM spy_stock;
+SELECT * FROM tng_stock;
+SELECT * FROM wmt_stock;
