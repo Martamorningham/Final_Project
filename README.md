@@ -12,6 +12,7 @@ LTSM Model
 
 
 ##  Description of communication:
+Weekly group meetings setting goals and reviewing results.  Additinal meetings scheduled as needed. 
 
 ##  Outline of project:
 Training our Nueral Network to predict future stock price based on the past performance seen in our historical data. Utilizing our own SQL database, fed with information from the Yahoo Finanance API, we will train our LTSM module to predict and visualize the future price flucations of Amazon (and other stocks), to help make more informed market decisions going forward.
