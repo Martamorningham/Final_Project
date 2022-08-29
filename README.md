@@ -10,8 +10,9 @@ Using Yahoo Finance's API we are able to pull historical data, and make calls to
 ![alt text](https://github.com/Martamorningham/Final_Project/blob/main/Yahoo_API_pull_example.png)
 ##  Data Stored:
 We are using stored Data in the Yahoo Finance's API database.
-##LTSM Model
+##  LTSM Model
 
+![alt text](https://github.com/Martamorningham/Final_Project/blob/Russell_Taylor_Branch_3/LSTM_model.png)
 
 ##  Description of communication:
 Weekly group meetings setting goals and reviewing results.  Additional meetings scheduled as needed. 
