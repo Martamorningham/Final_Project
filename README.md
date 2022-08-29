@@ -1,5 +1,5 @@
 #  Final Project
-Final_Project
+
 #  The problem: 
 Should I invest in Amazon (or other stocks)
 stock analysis of Amazon utilizing LTSM (Long Short-Term Memory)
