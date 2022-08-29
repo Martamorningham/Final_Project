@@ -2,7 +2,7 @@
 
 ##  The problem: 
 Should I invest in Amazon (or other stocks)?
-Stock Analysis of Amazon utilizing LTSM (Long Short-Term Memory)
+Stock Analysis of Amazon utilizing LSTM (Long Short Term Memory)
 We wanted to work with a model that would allow us to make future predictions in the stock market, specifically for Amazon (Ticker: AMZN)
 ##  Data Gathered:
 Using Yahoo Finance's API we are able to pull historical data, and make calls to keep the data up to date on a regular basis.
