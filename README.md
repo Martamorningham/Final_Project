@@ -1,6 +1,6 @@
 #  Final Project
 
-##  The problem: 
+##  The Problem: 
 Should I invest in Amazon (or other stocks)?
 Stock Analysis of Amazon utilizing LSTM (Long Short Term Memory)
 We wanted to work with a model that would allow us to make future predictions in the stock market, specifically for Amazon (Ticker: AMZN)
